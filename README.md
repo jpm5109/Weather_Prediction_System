@@ -95,12 +95,13 @@ pip install -r requirements.txt
 
 ### 4. Configure API Keys
 
-1. Copy the example environment file:
+1. Copy and Edit the example environment file:
 ```bash
 cp .env.example .env
+nano .env
 ```
 
-2. Edit `.env` and add your API keys:
+2. Add your API keys:
 ```env
 WEATHERAPI_KEY=your_weatherapi_key_here
 GEMINI_API_KEY=your_gemini_api_key_here
