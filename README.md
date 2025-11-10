@@ -1,3 +1,5 @@
+![Logo](aero.png)
+
 # Advanced Industrial-Grade AI Weather Prediction System
 
 ![Weather AI System](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
